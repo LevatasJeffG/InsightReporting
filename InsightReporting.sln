@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Events DashBoard", "Event DashBoard\Events DashBoard.rptproj", "{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Security Officer DashBoard", "Security Officer DashBoard\Security Officer DashBoard.rptproj", "{A79EF18F-E607-4D92-851C-EECF7671512B}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Finance DashBoard", "Finance DashBoard\Finance DashBoard.rptproj", "{F0504251-13D4-4108-8972-B44C99BAF2AD}"
+EndProject
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "People DashBoard", "People DashBoard\People DashBoard.rptproj", "{7334FC3F-9511-4F7F-A733-5CBCD068C077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}.Debug|Default.ActiveCfg = Debug
+		{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}.Debug|Default.Build.0 = Debug
+		{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}.Debug|Default.Deploy.0 = Debug
+		{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}.DebugLocal|Default.Build.0 = DebugLocal
+		{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}.Release|Default.ActiveCfg = Release
+		{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}.Release|Default.Build.0 = Release
+		{5C9EC9F0-3A0F-4207-AA77-EB412C8ACD96}.Release|Default.Deploy.0 = Release
+		{A79EF18F-E607-4D92-851C-EECF7671512B}.Debug|Default.ActiveCfg = Debug
+		{A79EF18F-E607-4D92-851C-EECF7671512B}.Debug|Default.Build.0 = Debug
+		{A79EF18F-E607-4D92-851C-EECF7671512B}.Debug|Default.Deploy.0 = Debug
+		{A79EF18F-E607-4D92-851C-EECF7671512B}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{A79EF18F-E607-4D92-851C-EECF7671512B}.DebugLocal|Default.Build.0 = DebugLocal
+		{A79EF18F-E607-4D92-851C-EECF7671512B}.Release|Default.ActiveCfg = Release
+		{A79EF18F-E607-4D92-851C-EECF7671512B}.Release|Default.Build.0 = Release
+		{A79EF18F-E607-4D92-851C-EECF7671512B}.Release|Default.Deploy.0 = Release
+		{F0504251-13D4-4108-8972-B44C99BAF2AD}.Debug|Default.ActiveCfg = Debug
+		{F0504251-13D4-4108-8972-B44C99BAF2AD}.Debug|Default.Build.0 = Debug
+		{F0504251-13D4-4108-8972-B44C99BAF2AD}.Debug|Default.Deploy.0 = Debug
+		{F0504251-13D4-4108-8972-B44C99BAF2AD}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{F0504251-13D4-4108-8972-B44C99BAF2AD}.DebugLocal|Default.Build.0 = DebugLocal
+		{F0504251-13D4-4108-8972-B44C99BAF2AD}.Release|Default.ActiveCfg = Release
+		{F0504251-13D4-4108-8972-B44C99BAF2AD}.Release|Default.Build.0 = Release
+		{F0504251-13D4-4108-8972-B44C99BAF2AD}.Release|Default.Deploy.0 = Release
+		{7334FC3F-9511-4F7F-A733-5CBCD068C077}.Debug|Default.ActiveCfg = Debug
+		{7334FC3F-9511-4F7F-A733-5CBCD068C077}.Debug|Default.Build.0 = Debug
+		{7334FC3F-9511-4F7F-A733-5CBCD068C077}.Debug|Default.Deploy.0 = Debug
+		{7334FC3F-9511-4F7F-A733-5CBCD068C077}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{7334FC3F-9511-4F7F-A733-5CBCD068C077}.DebugLocal|Default.Build.0 = DebugLocal
+		{7334FC3F-9511-4F7F-A733-5CBCD068C077}.Release|Default.ActiveCfg = Release
+		{7334FC3F-9511-4F7F-A733-5CBCD068C077}.Release|Default.Build.0 = Release
+		{7334FC3F-9511-4F7F-A733-5CBCD068C077}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

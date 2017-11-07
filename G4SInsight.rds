@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="G4SInsight">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=107.22.146.20;Initial Catalog=ST4ReportingQAS</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>cf24b0e7-422c-4cd3-88a3-9dd25f38db07</DataSourceID>
+</RptDataSource>
